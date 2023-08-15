@@ -1,0 +1,1 @@
+If you want to download, Go to "Bin", "INSTALL GAME.PY (Requires VSCode and Python Extension)
